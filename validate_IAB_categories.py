@@ -1,7 +1,7 @@
 import sys
 
 
-def validate_content(path='Content Taxonomies/Content Taxonomy 3.0.tsv'):
+def validate_content(path='Content Taxonomies/Content Taxonomy 3.1.tsv'):
     """
     Perform basic checks to ensure consistency in the content taxonomy.
 
